@@ -1,0 +1,63 @@
+INICIO
+    Definir opcion como entero
+    **mientras** opcion ! = hacer 
+         Imprimir "1.Registrar curso y nota"
+         Imprimir "2.Mostrar notas registradas"
+         Imprimir "3 calcular promedio de notas"
+         Imprimir "4.Buscar curso"
+         Imprimir "5.Acttualizar notas de un curso"
+         Imprimir "6.Eliminar curso"
+         Imprimir "7.Ver historial"
+         Imprimir "8.Agregar curso a revisión"
+         Imprimir "9.Procesar revisión de curso"
+         Imprimir "10.Ordenar notas (Burbuja)"
+         Imprimir "11.Ordenar notas (inserción)"
+         Imprimir "12.Buscar estudiante existentes"
+         Imprimir "13.Buscar sección estudiante"
+         Imprimir "14.Salir"
+         **Leer** opción
+         **si** opcion = 1 entonces
+              registrar_curso_y_nota
+         SiNo
+            si opción = 2 entonces
+              mostrat_notas
+         SiNo
+            si opción = 3 entonces
+              calcular_promedio
+         SiNo
+            si opción = 4 entonces
+              buscar_curso
+         SiNo
+            si opción = 5 entonces
+              actualizar_notas
+         SiNo
+            si opción = 6 entonces
+              eliminar_curso
+         SiNo
+            si opción = 7 entonces
+              ver_historial
+         SiNo 
+            si opción = 8 entonces
+              agregar_revision
+         SiNo 
+            si opción = 9 entonces
+              procesar_revision
+         SiNo
+            si opción = 10 entonces
+              ordenar_burbuja
+         SiNo
+            si opción = 11 entonces
+              ordenar_insercion
+         SiNo
+            si opción = 12 entonces
+              buscar_estudiante_existente
+         SiNo
+            si opción = 13 entonces
+              buscar_sección_estudiante
+         SiNo
+            si opción = 14 entonces
+              Imprimir "Feliz dia, Gracias por usar el gestor de notas academicas"
+         **Fin_Si**
+    **Finmientras**
+**fin**
+
