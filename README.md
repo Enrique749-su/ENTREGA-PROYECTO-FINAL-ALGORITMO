@@ -10,4 +10,7 @@
 
   Lo desafiente del proyecto fue realizar cada una de las funciones realmente funcionaran que realizaran lo que uno esperaba pero en si todo el proyecto fue desafiante y emocionante.
 
+
   **¿QUE MEJORARIA SI TUVIERA MÁS TIEMPO?**
+
+  Mejoraria la presentacion esteticamente del proyecto, las ejecuciones del proyecto pero para eso necesitamos aprender mas cosas pero en un proximo proyecto podamos mejorar en todos los aspetos que esta ves no llenamos.
